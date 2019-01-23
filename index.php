@@ -46,12 +46,12 @@
 				<nav class="menu">
 				    <!-- Menu Links -->
 					<div class="icon-list">
-						<a href="index.html#home"><i class="fa fa-fw fa-home"></i><span>Home</span></a>
-						<a href="index.html#about"><i class="fa fa-fw fa-quote-left"></i><span>About</span></a>
-						<a href="index.html#service"><i class="fa fa-fw fa-globe"></i><span>Service</span></a>
-						<a href="index.html#portfolio"><i class="fa fa-fw fa-picture-o"></i><span>Portfolio</span></a>
-						<a href="index.html#blog"><i class="fa fa-fw fa-rss"></i><span>Blog</span></a>
-						<a href="index.html#contact"><i class="fa fa-fw fa-envelope-o"></i><span>Contact</span></a>
+						<a href="index.php#home"><i class="fa fa-fw fa-home"></i><span>Home</span></a>
+						<a href="index.php#about"><i class="fa fa-fw fa-quote-left"></i><span>About</span></a>
+						<a href="index.php#service"><i class="fa fa-fw fa-globe"></i><span>Service</span></a>
+						<a href="index.php#portfolio"><i class="fa fa-fw fa-picture-o"></i><span>Portfolio</span></a>
+						<a href="index.php#blog"><i class="fa fa-fw fa-rss"></i><span>Blog</span></a>
+						<a href="index.php#contact"><i class="fa fa-fw fa-envelope-o"></i><span>Contact</span></a>
 					</div>
 				</nav>
 			    </div>
