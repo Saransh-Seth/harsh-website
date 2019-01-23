@@ -257,7 +257,7 @@
           <div class="container">
             <div class="row">
               <div class="col-md-12">
-                <a href="index.html#contact" class="outline-btn">hire harsh patel</a>
+                <a href="index.php#contact" class="outline-btn">hire harsh patel</a>
               </div>
             </div>
           </div>
@@ -273,7 +273,7 @@
         =========================== -->
         <section class="text-center section-padding contact-wrap" id="contact">
 		  <!-- To Top Button -->
-          <a href="index.html#top" class="up-btn"><i class="fa fa-chevron-up"></i></a>
+          <a href="index.php#top" class="up-btn"><i class="fa fa-chevron-up"></i></a>
           <div class="container">
 		    <!-- Headline -->
             <div class="row">
